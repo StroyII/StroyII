@@ -53,4 +53,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=StroyII&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=StroyII&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+<h2>🕹️ Game of the day</h2>
 
+<img height="350" width="auto" alt="Random video game cover" src="https://raw.githubusercontent.com/StroyII/random-game-cover/main/cover/cover.png">
+
+Made with <a href="https://github.com/StroyII/random-game-cover">Random game cover</a>
