@@ -49,9 +49,9 @@
 
 <h2> 📊 GitHub Stats</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=StroyII&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=StroyII&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=StroyII&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=StroyII&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=StroyII&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=StroyII&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <h2>🕹️ Game of the day</h2>
 
