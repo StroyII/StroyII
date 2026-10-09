@@ -1,6 +1,6 @@
 <h1>Hi i'm StroyII !</h1>
 
-🖥️ I'm a third year computer science student specialising in software development
+🖥️ I'm a fourth year computer science student specialising in software development
 
 🎮 I love to play and create video games
 
@@ -38,7 +38,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<h4>📝 What i want to learn :</h4> 
+<h4>📝 What i want to learn :</h4>
+ 
 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
